@@ -67,22 +67,22 @@ Example:
         {
             "name":"Cantina do H",
             "location":{
-                "latitude":41,17878,
-                "longitude":-8,60622
+                "latitude":41.178205,
+                "longitude":-8.6091482
             }
         },
         {
             "name":"Bar da AE",
             "location":{
-                "latitude":41,27878,
-                "longitude":-8,60622
+                "latitude":41.178368,
+                "longitude":-8.608466
             }
         },
         {
             "name":"Cantina do F",
             "location":{
-                "latitude":41,13878,
-                "longitude":-8,60622
+                "latitude":41.179290,
+                "longitude":-8.607970
             }
         }
     ]
