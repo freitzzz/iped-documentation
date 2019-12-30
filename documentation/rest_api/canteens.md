@@ -58,6 +58,7 @@ Verb: `POST`
 The following fields are required in order to create a school canteen:
 
 - `name` Full name of the canteen, which identifies the canteen as unique
+- `location` Geographical location of the canteen
 
 Example:
 

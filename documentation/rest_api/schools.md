@@ -65,13 +65,25 @@ Example:
     "name":"Instituto Superior de Engenharia do Porto",
     "canteens":[
         {
-            "name":"Cantina do H"
+            "name":"Cantina do H",
+            "location":{
+                "latitude":41,17878,
+                "longitude":-8,60622
+            }
         },
         {
-            "name":"Bar da AE"
+            "name":"Bar da AE",
+            "location":{
+                "latitude":41,27878,
+                "longitude":-8,60622
+            }
         },
         {
-            "name":"Cantina do F"
+            "name":"Cantina do F",
+            "location":{
+                "latitude":41,13878,
+                "longitude":-8,60622
+            }
         }
     ]
 }
